@@ -8,3 +8,4 @@ Creating a new branch is quick AND simple.
 Branch merge.
 Branch merge with fast forward.
 Branch merge with fast forward too.
+Branch merge with fast forward again.
